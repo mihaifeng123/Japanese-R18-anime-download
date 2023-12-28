@@ -12,3 +12,4 @@
 - # bitcomet 下载地址 https://www.bitcomet.com/
 - # Transmission 下载地址 https://transmissionbt.com/
 - # PASS：种子每个月不定时更新，每个月可以留意一下！
+- # 从 Yuki-Master/Japanese-R18-anime-download 分叉而来
